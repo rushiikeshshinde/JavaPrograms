@@ -60,7 +60,7 @@ class Sorting {
 
     public static void main(String[] args) {
 
-        int[] arr = {7,8,3,1,2};
+        int[] arr = {7, 8, 3, 1, 2};
 
         // Bubble Sort
         // Time Complexity - O(n^2)
@@ -73,4 +73,5 @@ class Sorting {
         // Insertion Sort
 
 
+    }
 }
